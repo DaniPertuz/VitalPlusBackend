@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd8d00e4.chunk.css",
+    "main.js": "/static/js/main.fe27ce88.chunk.js",
+    "main.js.map": "/static/js/main.fe27ce88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c463cc1c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c463cc1c.js.map",
+    "static/css/2.1fe20c78.chunk.css": "/static/css/2.1fe20c78.chunk.css",
+    "static/js/2.d0bcf6d5.chunk.js": "/static/js/2.d0bcf6d5.chunk.js",
+    "static/js/2.d0bcf6d5.chunk.js.map": "/static/js/2.d0bcf6d5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1fe20c78.chunk.css.map": "/static/css/2.1fe20c78.chunk.css.map",
+    "static/css/main.cd8d00e4.chunk.css.map": "/static/css/main.cd8d00e4.chunk.css.map",
+    "static/js/2.d0bcf6d5.chunk.js.LICENSE.txt": "/static/js/2.d0bcf6d5.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/Quicksand-Bold.76f20c55.ttf",
+    "static/media/VitalPlus.dd5321fd.png": "/static/media/VitalPlus.dd5321fd.png",
+    "static/media/VitalPlus400x160.786f4bdf.png": "/static/media/VitalPlus400x160.786f4bdf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c463cc1c.js",
+    "static/css/2.1fe20c78.chunk.css",
+    "static/js/2.d0bcf6d5.chunk.js",
+    "static/css/main.cd8d00e4.chunk.css",
+    "static/js/main.fe27ce88.chunk.js"
+  ]
+}
